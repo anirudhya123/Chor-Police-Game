@@ -1,0 +1,5 @@
+C:/Users/aniru/OneDrive/Documents/Secret Sword/Moonlight/ChorPolice/.utmp/RelWithDebInfo/2c1x2u3a/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/aniru/OneDrive/Documents/Secret Sword/Moonlight/ChorPolice/.utmp/RelWithDebInfo/2c1x2u3a/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/aniru/OneDrive/Documents/Secret Sword/Moonlight/ChorPolice/.utmp/RelWithDebInfo/2c1x2u3a/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/aniru/OneDrive/Documents/Secret Sword/Moonlight/ChorPolice/.utmp/RelWithDebInfo/2c1x2u3a/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/aniru/OneDrive/Documents/Secret Sword/Moonlight/ChorPolice/.utmp/RelWithDebInfo/2c1x2u3a/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
